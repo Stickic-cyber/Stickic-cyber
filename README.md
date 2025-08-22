@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/Stickic-cyber/Stickic-cyber/main/assets/github-contribution-grid-snake.svg)
 <!--
 **Stickic-cyber/Stickic-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
